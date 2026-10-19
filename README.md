@@ -2,7 +2,9 @@
 
 Agent qui répond à des questions chiffrées sur les **documents d'enregistrement universel** de **BNP Paribas**, **Société Générale** et **Crédit Agricole S.A.** (exercices 2024 et 2025), en citant **la page du PDF** comme source.
 
-> Démo en ligne : _lien Streamlit Community Cloud à ajouter_
+> Démo en ligne : https://agent-analyse-financiere.streamlit.app/
+>
+> L'application se met en veille après 12 heures sans visite : le premier chargement peut prendre environ une minute.
 
 ## Ce qu'il fait
 
