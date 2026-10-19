@@ -1,0 +1,10 @@
+langchain>=1.0
+langchain-mistralai
+langchain-openai
+langchain-text-splitters
+chromadb
+rank-bm25
+pypdf
+ddgs
+streamlit>=1.40
+huggingface_hub

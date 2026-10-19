@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.key
+# Index vectoriels (régénérables, volumineux)
+chroma_*/
+# Rapports PDF et textes extraits
+data/
+txt/
+# Journaux et résultats d'exécution
+logs/
+indexation.log
+resultats_eval_*.csv
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv*/
